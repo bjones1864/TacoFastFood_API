@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|c:\\users\\miwol\\source\\repos\\tacofastfood_api\\tacofastfood_api\\controllers\\comboscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|solutionrelative:tacofastfood_api\\controllers\\comboscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|c:\\users\\miwol\\source\\repos\\tacofastfood_api\\tacofastfood_api\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|solutionrelative:tacofastfood_api\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|c:\\users\\miwol\\source\\repos\\tacofastfood_api\\tacofastfood_api\\controllers\\tacoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|solutionrelative:tacofastfood_api\\controllers\\tacoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|c:\\users\\miwol\\source\\repos\\tacofastfood_api\\tacofastfood_api\\models\\fastfoodtacodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|solutionrelative:tacofastfood_api\\models\\fastfoodtacodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|c:\\users\\miwol\\source\\repos\\tacofastfood_api\\tacofastfood_api\\controllers\\drinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|solutionrelative:tacofastfood_api\\controllers\\drinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|c:\\users\\miwol\\source\\repos\\tacofastfood_api\\tacofastfood_api\\models\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|solutionrelative:tacofastfood_api\\models\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|c:\\users\\miwol\\source\\repos\\tacofastfood_api\\tacofastfood_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|solutionrelative:tacofastfood_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|c:\\users\\miwol\\source\\repos\\tacofastfood_api\\tacofastfood_api\\models\\taco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|solutionrelative:tacofastfood_api\\models\\taco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|c:\\users\\miwol\\source\\repos\\tacofastfood_api\\tacofastfood_api\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7135D22E-2B7B-459D-B6DF-8D12EA38B22F}|TacoFastFood_API\\TacoFastFood_API.csproj|solutionrelative:tacofastfood_api\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CombosController.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Controllers\\CombosController.cs",
+              "RelativeDocumentMoniker": "TacoFastFood_API\\Controllers\\CombosController.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Controllers\\CombosController.cs",
+              "RelativeToolTip": "TacoFastFood_API\\Controllers\\CombosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:14:34.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Combo.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\Combo.cs",
+              "RelativeDocumentMoniker": "TacoFastFood_API\\Models\\Combo.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\Combo.cs",
+              "RelativeToolTip": "TacoFastFood_API\\Models\\Combo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:14:04.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TacoFastFood_API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\User.cs",
+              "RelativeToolTip": "TacoFastFood_API\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:29:33.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\UserDAL.cs",
+              "RelativeDocumentMoniker": "TacoFastFood_API\\Models\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\UserDAL.cs",
+              "RelativeToolTip": "TacoFastFood_API\\Models\\UserDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:26:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FastFoodTacoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\FastFoodTacoDbContext.cs",
+              "RelativeDocumentMoniker": "TacoFastFood_API\\Models\\FastFoodTacoDbContext.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\FastFoodTacoDbContext.cs",
+              "RelativeToolTip": "TacoFastFood_API\\Models\\FastFoodTacoDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:25:24.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrinksController.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Controllers\\DrinksController.cs",
+              "RelativeDocumentMoniker": "TacoFastFood_API\\Controllers\\DrinksController.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Controllers\\DrinksController.cs",
+              "RelativeToolTip": "TacoFastFood_API\\Controllers\\DrinksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:54:21.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TacosController.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Controllers\\TacosController.cs",
+              "RelativeDocumentMoniker": "TacoFastFood_API\\Controllers\\TacosController.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Controllers\\TacosController.cs",
+              "RelativeToolTip": "TacoFastFood_API\\Controllers\\TacosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:20:08.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Taco.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\Taco.cs",
+              "RelativeDocumentMoniker": "TacoFastFood_API\\Models\\Taco.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\Taco.cs",
+              "RelativeToolTip": "TacoFastFood_API\\Models\\Taco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:06:43.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\Drink.cs",
+              "RelativeDocumentMoniker": "TacoFastFood_API\\Models\\Drink.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\TacoFastFood_API\\TacoFastFood_API\\Models\\Drink.cs",
+              "RelativeToolTip": "TacoFastFood_API\\Models\\Drink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:06:41.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
