@@ -134,3 +134,4 @@ C:\Users\miwol\source\repos\TacoFastFood_API\TacoFastFood_API\obj\Debug\net8.0\r
 C:\Users\miwol\source\repos\TacoFastFood_API\TacoFastFood_API\obj\Debug\net8.0\TacoFastFood_API.pdb
 C:\Users\miwol\source\repos\TacoFastFood_API\TacoFastFood_API\obj\Debug\net8.0\TacoFastFood_API.genruntimeconfig.cache
 C:\Users\miwol\source\repos\TacoFastFood_API\TacoFastFood_API\obj\Debug\net8.0\ref\TacoFastFood_API.dll
+C:\Users\miwol\source\repos\TacoFastFood_API\TacoFastFood_API\obj\Debug\net8.0\TacoFastFood_API.sourcelink.json

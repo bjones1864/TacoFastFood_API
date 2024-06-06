@@ -57,3 +57,23 @@
 --GO
 
 --SELECT * FROM Users;
+
+--USE FastFoodTacoDB;
+--GO
+
+--CREATE TABLE Combo(
+--	ID INT IDENTITY(1,1) Primary Key,
+--	[Name] NVARCHAR(255),
+--	TacoId INT FOREIGN KEY REFERENCES Taco(ID),
+--	DrinkId INT FOREIGN KEY REFERENCES Drink(ID),
+--	Cost REAL
+--);
+
+--INSERT INTO Combo([Name], TacoId, DrinkId, Cost)
+--VALUES ('Double Layer Blast', 1, 1, 3.49),
+--('Chicken Blast', 5, 1, 4.49),
+--('Potato Gamer', 3, 2, 4);
+
+SELECT * FROM Combo
+Join Taco On Combo.TacoId = Taco.ID
+Join Drink On Combo.DrinkId = Drink.ID;

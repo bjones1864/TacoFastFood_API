@@ -17,7 +17,7 @@ namespace TacoFastFood_API.Controllers
         {
             if(UserDAL.ValidateKey(ApiKey))
             {
-                return Ok(dbContext.Combos.ToList());
+                return Ok(dbContext.Combos.Include(c => c.Drink).Include(c => c.Taco).ToList());
             }
             else
             {
